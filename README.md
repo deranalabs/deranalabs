@@ -5,42 +5,16 @@
 
 ### Technical Proficiencies
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Move](https://img.shields.io/badge/MoveVM-Sui-00a3ff?style=flat-square)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Irys](https://img.shields.io/badge/Storage-Irys-000000?style=flat-square)
+#### Languages
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Move-00a3ff?style=flat-square" height="28">
+
+#### Blockchain & Web3 Ecosystem
+<img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Sui-6FBED5?style=flat-square&logo=sui&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Irys-000000?style=flat-square" height="28"> <img src="https://img.shields.io/badge/Farcaster-855DCD?style=flat-square&logo=farcaster&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Web3-Development-black?style=flat-square" height="28">
+
+#### Frontend & Mobile
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28">
+
+#### Backend & Infrastructure
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB" height="28"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28">
 
 ---
-
-### Core Contributions
-
-* **Blockchain Node Operations**: Active management of validator nodes on various blockchain project testnets.
-* **Cedra Labs**: Technical contributor focused on Move-based Event Indexing Guides and `cedra-cli` development.
-* **Irys Proofboard**: Engineered a permanent data proof system utilizing Irys SDK and IrysVM.
-
-### Selected Projects
-
-* **Catalyst (Sui Network)**: 2nd Place at Sui Indonesia Mini Hackathon; NFT Launchpad protocol built with MoveVM.
-* **Base Ecosystem**:
-    * **Sukatani**: RPG mini-app with on-chain mechanics.
-    * **ReplayCaster**: Farcaster-integrated annual data visualization.
-    * **Kept**: Specialized mini-app for the Base network ecosystem.
-
----
-
-### System Analytics
-
-&nbsp;
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deranalabs&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deranalabs&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
-</p>
-
----
-
-### Professional Channels
-
-[LinkedIn](https://linkedin.com/in/bayu-mulyana-076974258) | [X (Twitter)](https://x.com/deranaz) | [Digital Portfolio](https://link3.to/bayumlyn)
