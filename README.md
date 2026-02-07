@@ -8,8 +8,8 @@ I am a passionate developer focused on building decentralized applications and d
 ### 🚀 Highlights & Achievements
 - 🥈 **2nd Place Winner** at Sui Indonesia Mini Hackathon (Catalyst Launchpad).
 - 🛠 Developed **Irys Proofboard** for permanent data proofs.
-- 🎮 Currently building **Sokochain** (RPG Mini App on Base).
-- ⛓️ Actively participating in Solana & Base ecosystems.
+- 🎮 Currently building **Sukatani** (RPG Mini App on Base & Farcaster).
+- ⛓️ Actively participating in Sui,Base, & Solana ecosystems.
 
 ### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
