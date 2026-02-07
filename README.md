@@ -1,29 +1,38 @@
-# Hi, I'm Bayu Mulyana 👋 
-### Fullstack & Web3 Developer | Information Systems Student
-
-I am a passionate developer focused on building decentralized applications and digital experiences. Currently exploring the intersection of Web3, gaming, and creative art.
+# Bayu Mulyana
+**Information Systems @ 4th Semester** | **Web3 & Fullstack Developer**
 
 ---
 
-### 🚀 Highlights & Achievements
-- 🥈 **2nd Place Winner** at Sui Indonesia Mini Hackathon (Catalyst Launchpad).
-- 🛠 Developed **Irys Proofboard** for permanent data proofs.
-- 🎮 Currently building **Sukatani** (RPG Mini App on Base & Farcaster).
-- ⛓️ Actively participating in Sui,Base, & Solana ecosystems.
+### 🛠 Tech & Ecosystems
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | TypeScript, Java (JDBC), Solidity, Rust (Learning) |
+| **Frameworks** | React, Next.js, Flutter |
+| **Web3/L1/L2** | Sui (Move), Base, Solana, Stacks |
+| **Tools** | Irys SDK, PostgreSQL, Git, Docker |
 
-### 🛠 Tech Stack & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Sui](https://img.shields.io/badge/Sui-Dynamic-blue?style=for-the-badge)
+---
 
-### 📊 GitHub Stats
+### 🏆 Key Contributions & Projects
+* **Catalyst (Sui NFT Launchpad)**
+    * *Achieved 2nd Place at Sui Indonesia Mini Hackathon.*
+    * Focus: Building a seamless NFT minting experience on Sui Network.
+* **Irys Proofboard**
+    * Implementation of permanent data proofs using Irys SDK for decentralized data integrity.
+* **Sukatani (Base Mini-App)**
+    * A pixel-art RPG GameFi project featuring on-chain farm game play to earn.
+* **Stacks Playground**
+    * Smart contract development for SIP-009 (NFTs) and SIP-010 (Tokens).
+
+---
+
+### 📊 Engineering Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=deranalabs&show_icons=true&theme=tokyonight" alt="Bayu's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deranalabs&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deranalabs&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deranalabs&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="300" />
 </p>
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayu-mulyana-076974258)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/deranaz)
+---
+
+### 🌐 Digital Presence
+[LinkedIn](https://linkedin.com/in/bayu-mulyana-076974258) • [X (Twitter)](https://x.com/deranaz) • [Portfolio/Linktree](https://link3.to/bayumlyn)
