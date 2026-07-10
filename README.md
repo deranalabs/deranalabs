@@ -25,24 +25,6 @@
 
 ---
 
-### On-Chain Infrastructure & Research
-
-* **Node Validator Ops**: Active operator running validator nodes on high-throughput testnets (e.g., Gonka).
-* **Cedra Labs**: Contributing to **Move-based** event indexing architecture and tooling (`cedra-cli`).
-
----
-
-### Deployed DApps & Hackathons
-
-* **Catalyst (Sui Network)**: **2nd Place Winner** at Sui Indonesia Hackathon. Built an NFT Launchpad protocol on MoveVM.
-* **Irys Proofboard**: Decentralized **Proof-of-Existence** platform. Engineered permanent storage solutions using **Irys SDK** & **SHA-256 hashing** with gamified user achievements.
-* **Base Ecosystem Mini-Apps**:
-    * **Sukatani**: **Web3 Farming RPG** on Base Sepolia. Features tradable Land NFTs, on-chain inventory, and a "Play, Harvest, Own" economic loop.
-    * **Kept**: **Accountability Protocol** on Base. Users stake tokens to back daily commitments, introducing financial incentives for habit building.
-    * **ReplayCaster**: Cinematic **Year-in-Review** experience for Farcaster users, visualizing social graph activity and engagement metrics.
-
----
-
 ### Connect & Verify
 
 [![X (Twitter)](https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bayumlynn)
