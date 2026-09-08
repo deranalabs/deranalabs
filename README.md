@@ -33,5 +33,5 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bayumlyn.vercel.app-f77f00?style=for-the-badge&logo=vercel&logoColor=white)](https://bayumlyn.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fbayumlyn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayumlyn)
-[![X (Twitter)](https://img.shields.io/badge/X_%2F_Twitter-@bayumlynn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsbyderana)
+[![X (Twitter)](https://img.shields.io/badge/X_%2F_Twitter-@itsbyderana-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsbyderana)
 [![Email](https://img.shields.io/badge/Email-hi@derana.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@derana.dev)
