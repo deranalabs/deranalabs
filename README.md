@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=600&lines=Software+Engineer;Fullstack+Web+%26+Backend+Systems;AI+Agent+Tooling+%26+Control+Layers;Protocol-Integrated+Applications" alt="Typing SVG" />
 </a>
 
-<p>Software engineer building web applications, autonomous agent toolings, and protocol-integrated systems.</p>
+Software engineer building web applications, autonomous agent toolings, and protocol-integrated systems.
 
 <br/>
 
@@ -13,6 +13,7 @@
 - 🛠 **Building:** Web backends, internal enterprise tools, and agent execution guards
 - 🔗 **Web3 & Protocols:** Smart contracts & dApps across Sui, Base, and Solana
 - 🤖 **AI Agents:** Control layers, policy-gated pipelines, and runtime routing
+- 🌱 **Open Source:** Occasional contributions to tooling across the Web3 & AI-agent ecosystems above
 
 <br/>
 
@@ -26,6 +27,12 @@
 
 **Infra & Blockchain**
 <img src="https://img.shields.io/badge/Linux_Ops-FCC624?style=flat-square&logo=linux&logoColor=black" height="24"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Sui_Network-6FBED5?style=flat-square&logo=sui&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Base_Chain-0052FF?style=flat-square&logo=base&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" height="24">
+
+<br/>
+
+## Open Source
+
+<img src="https://github-contributor-stats.vercel.app/api?username=deranalabs&limit=5&theme=tokyonight" alt="Open source contribution stats" />
 
 <br/>
 
