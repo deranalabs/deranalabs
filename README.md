@@ -30,12 +30,6 @@ Software engineer building web applications, autonomous agent toolings, and prot
 
 <br/>
 
-## Open Source
-
-<img src="https://github-contributor-stats.vercel.app/api?username=deranalabs&limit=5&theme=tokyonight" alt="Open source contribution stats" />
-
-<br/>
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bayumlyn.vercel.app-f77f00?style=for-the-badge&logo=vercel&logoColor=white)](https://bayumlyn.vercel.app)
